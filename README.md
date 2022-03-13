@@ -15,4 +15,11 @@ https://user-images.githubusercontent.com/93951895/158075048-c4f8a75b-0b7d-43e5-
 
 
 
-## 
+## Contribution 
+If you would like to contribute on this project feel free to reach out at Mickierouxe@gmail.com
+
+## Questions 
+If you have any questions feel free to reach out to 
+Mickierouxe@gmail.com
+
+
