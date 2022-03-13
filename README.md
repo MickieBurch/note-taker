@@ -11,6 +11,7 @@ https://mickierouxe-note-taker.herokuapp.com/notes
 
 
 https://user-images.githubusercontent.com/93951895/158075048-c4f8a75b-0b7d-43e5-ad9d-87011c0b6893.mp4
+
 ![image](https://user-images.githubusercontent.com/93951895/158075132-b9c7033a-cd7a-45f1-b3cd-f7301098c6d7.png)
 
 
