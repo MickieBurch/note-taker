@@ -16,5 +16,8 @@
     "url": "https://github.com/MickieBurch/note-taker/issues"
   },
   "homepage": "https://github.com/MickieBurch/note-taker#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
